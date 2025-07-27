@@ -1,2 +1,36 @@
 what is computer?
 answer: computer is an electronic device. it is used to store ,retrive and process data.It takes input,processes it,and provide output,enabling tasks like calculations ,data management and problem solving.
+
+
+
+
+
+# converting decimol number to binary number:
+
+To convert a decimal number to binary, repeatedly divide the decimal number by 2 and note the remainders. The binary number is the sequence of these remainders read in reverse order—from last to first.
+
+Step-by-step process:
+
+Divide the decimal number by 2.
+
+Record the remainder (0 or 1). This is your least significant bit (LSB).
+
+Update the quotient: Divide the result (quotient) from the previous step by 2 again.
+
+Repeat steps 2-3 until the quotient is 0.
+
+Write out the remainders from last to first (reverse order). This sequence forms the binary number.
+
+Example: Convert 13 to binary
+
+13 ÷ 2 = 6, remainder 1
+
+6 ÷ 2 = 3, remainder 0
+
+3 ÷ 2 = 1, remainder 1
+
+1 ÷ 2 = 0, remainder 1
+
+Write remainders in reverse: 1101
+So, 13 in decimal equals 1101 in binary.
+
