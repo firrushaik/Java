@@ -1,1 +1,11 @@
-hii
+# converting binary to decimal number system example :
+
+Q) convert the binary number 1001 to a decimal number.
+Ans : given binary number =(1001)2
+
+1
+(1001)2=(1*2^3)+(0*2^2)+(0*2^1)+(1*2^0)
+         (1*8)+0+0+(1*1)
+          8+1=9 
+
+here 9 is a decimal number.
