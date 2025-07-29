@@ -75,7 +75,7 @@ hence,(55)10 = (67)8
 
 # converting binary to octal number system.
 
-Q4) convert the binary number (1010101)2 to octal number.
+Q 4) convert the binary number (1010101)2 to octal number.
 Ans : by converting binary to octal number system , firstly we will cconvert the binary to decimal number, after that decimal to octal number. 
  
 (1010101)2 = (1*2^6)+(0*2^5)+(1*2^4)+(0*2^3)+(1*2^2)+(0*2^1)+(1*2^0)
@@ -132,6 +132,8 @@ given that decimal number 33 devided by 2 and note all the remainters from botto
     1/2               0              1
 
     the binary number is (100001)2 .
+     
+    my home work is completed.
 
 
 
