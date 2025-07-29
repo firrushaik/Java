@@ -1,6 +1,6 @@
 # converting binary to decimal number system example :
 
-Q) convert the binary number 1001 to a decimal number.
+Q1) convert the binary number 1001 to a decimal number.
 Ans : given binary number =(1001)2
 
 (1001)2=(1*2^3)+(0*2^2)+(0*2^1)+(1*2^0)
@@ -11,7 +11,7 @@ here 9 is a decimal number.
 
 # converting decimal to binary number system example :
 
-Q) convert the decimal number (160)10 to a binary number.
+Q2) convert the decimal number (160)10 to a binary number.
 Ans : given decimal number =(160)10
 
 (divide by 2)     (quotient)    (remainder) 
@@ -67,3 +67,48 @@ now we will convert  this decimal number to octal :
    1/8                 0            1
 
    the result is (85)10 = (125)8   
+
+
+# converting octal number to decimal number system :
+
+Q5) convert the  (125)8 to decimal number system.
+
+Ans : given that octal number (125)8
+    
+(125)8 = (1*8^2)+(2*8^1)+(5*8^0)
+       = 64 + 16 + 5
+       = 85
+
+the decimal number is (85)10
+
+
+# converting octal number to binary number system :
+
+Q6) convert the octal number (41)8 to binary number.
+
+Ans : given that octal number = (41)8
+
+first we will convert the octal number into decimal number, later that convert the decimal to binary number .
+
+octal t0 decimal conversion ;
+
+(41)8 = (4*8^1)+(1*8^0)
+      = 32 + 1
+      = 33 (decimal number)
+
+now, we will convert the decimal number to binary number.
+
+given that decimal number 33 devided by 2 and note all the remainters from bottom to top.
+
+(divide by 2)     (quotient)    (remainder) 
+    33/2             16              1
+    16/2              8              0
+    8/2               4              0 
+    4/2               2              0
+    2/2               1              0
+    1/2               0              1
+
+    the binary number is (100001)2 .
+
+
+
