@@ -7,4 +7,24 @@ Ans : given binary number =(1001)2
          (1*8)+0+0+(1*1)
           8+1=9 
 
-here 9 is a decimal number.
+here 9 is a decimal number. 
+
+# converting decimal to binary system example :
+
+Q) convert the decimal number (160)10 to a binary number.
+Ans : given decimal number =(160)10
+
+(divide by 2)     (quotient)    (remainder) 
+
+160/2                80           0
+80/2                 40           0
+40/2                 20           0
+20/2                 10           0
+10/2                  5           0
+5/2                   2           1
+2/2                   1           0
+1/2                   0           1
+
+Now write the remainders in reverse chronological order(i.e)from bottom to top.
+
+hence,the decimal number 160 in binary number is (10100000)2
