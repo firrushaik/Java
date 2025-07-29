@@ -1,0 +1,17 @@
+Q) convert (1DA6)16 to decimal number system.
+
+Ans : given that hexa decimal number = (1DA6)16
+
+here, 
+1 = 1
+D = 13
+A = 10
+6 = 6
+
+now,
+(1DA6)16 = (1*16^3)+(13*16^2)+(10*16^1)+(6*16^0)
+         = (1*4096)+(13*256)+(10*16)+(6*1)
+         = 4096+3328+160+6
+         = 7590
+
+therefore,(1DA6)16 = (7590)10
