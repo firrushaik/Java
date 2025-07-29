@@ -32,7 +32,6 @@ hence,the decimal number 160 in binary number is (10100000)2
 # converting decimal to octal number system.
 
 Q3) convert the decimal number (127)10 to octal number.
-
 Ans : given the decimal number = (127)10
     divide 127 by 8
 
@@ -49,10 +48,7 @@ hence,(127)10 = (177)8
 # converting binary to octal number system.
 
 Q4) convert the binary number (1010101)2 to octal number.
-
 Ans : by converting binary to octal number system , firstly we will cconvert the binary to decimal number, after that decimal to octal number. 
-
-octal number base : 8
  
 (1010101)2 = (1*2^6)+(0*2^5)+(1*2^4)+(0*2^3)+(1*2^2)+(0*2^1)+(1*2^0)
            = 64 + 0 + 16 + 0 + 4 + 0 + 1 
@@ -72,7 +68,6 @@ now we will convert  this decimal number to octal :
 # converting octal number to decimal number system :
 
 Q5) convert the  (125)8 to decimal number system.
-
 Ans : given that octal number (125)8
     
 (125)8 = (1*8^2)+(2*8^1)+(5*8^0)
