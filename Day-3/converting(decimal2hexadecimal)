@@ -1,0 +1,9 @@
+Q) convert decimal number (800)10 to hexa decimal number.
+Ans : given that decimal number = (800)10
+
+(divide by 16)         (quotient)          (remainder)
+    800/16                 50                  0
+    50/16                   3                  2
+    3/16                    0                  3
+
+Therefore, (800)10 = (320)16
