@@ -9,7 +9,7 @@ Ans : given binary number =(1001)2
 
 here 9 is a decimal number. 
 
-# converting decimal to binary system example :
+# converting decimal to binary number system example :
 
 Q) convert the decimal number (160)10 to a binary number.
 Ans : given decimal number =(160)10
@@ -28,3 +28,42 @@ Ans : given decimal number =(160)10
 Now write the remainders in reverse chronological order(i.e)from bottom to top.
 
 hence,the decimal number 160 in binary number is (10100000)2
+
+# converting decimal to octal number system.
+
+Q3) convert the decimal number (127)10 to octal number.
+
+Ans : given the decimal number = (127)10
+    divide 127 by 8
+
+(divide by 8)     (quotient)    (remainder) 
+
+127/8                15             7
+15/8                 1              7
+1/8                  0              1
+
+since the quotient is zero now, no more division can be done. so by taking the remainders in deverse order,we get the equivalent octal number.
+
+hence,(127)10 = (177)8
+
+# converting binary to octal number system.
+
+Q4) convert the binary number (1010101)2 to octal number.
+
+Ans : by converting binary to octal number system , firstly we will cconvert the binary to decimal number, after that decimal to octal number. 
+
+octal number base : 8
+ 
+(1010101)2 = (1*2^6)+(0*2^5)+(1*2^4)+(0*2^3)+(1*2^2)+(0*2^1)+(1*2^0)
+           = 64 + 0 + 16 + 0 + 4 + 0 + 1 
+           = 85 
+
+now we will convert  this decimal number to octal :
+
+(divide by 8)     (quotient)    (remainder) 
+
+   85/8               10            5
+   10/8                1            2
+   1/8                 0            1
+
+   the result is (85)10 = (125)8   
