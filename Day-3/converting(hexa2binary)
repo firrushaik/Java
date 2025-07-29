@@ -1,0 +1,28 @@
+Q) convert the hexa decimal number (A3C)16 to binary number.
+Ans : given that hexa decimal number = (A2C)16
+first, convert the given hexa decimal number into decimal number later it will convert the binary number.
+
+(A2C)16 = (A*16^2)+(2*16^1)+(C*16^0)
+        = (10*256)+(2*16)+(12*1)
+        = (2560)+(32)+(12)
+(A2C)16 = (2604)10
+
+now, we will convert the decimal number into binary number.
+
+(divide by 2)           (quotient)              (remainder)
+   2604/2                 1302                      0
+   1302/2                 651                       0
+   651/2                  325                       1
+   325/2                  162                       1
+   162/2                   81                       0
+   81/2                    40                       1
+   40/2                    20                       0
+   20/2                    10                       0
+   10/2                     5                       0
+   5/2                      2                       1
+   2/2                      1                       0
+   1/2                      0                       1
+
+   the binary number is (101000101100)2
+
+
