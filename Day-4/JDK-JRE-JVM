@@ -6,4 +6,4 @@ JDK : JDK stands for Java Development Kit.it is used to develop the java program
 
 JRE : JRE stands for Java Runtime Environment. it is used to execute the java programs . and it contains JVM and some libraries.
 
-JVM : JVM stands for Java Virtual Machine .it is used to convert the java byte code to machine code language with the help of interpreter called JIT (Just In Time). it contains only JVM. 
+JVM : JVM stands for Java Virtual Machine .it is used to convert the java byte code to machine code language with the help of interpreter called JIT (Just In Time). it contains only JVM.
