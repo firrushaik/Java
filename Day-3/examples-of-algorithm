@@ -1,0 +1,19 @@
+Q ) write algorithm on calculate power of a number 20 .
+
+Algorithm :
+
+first take a number let us say A .
+take power  as 0 .
+calculate the power of A (i.e) A * A . and store in power .
+print the power .
+
+
+Q ) write algorithm on to prepare upma .
+
+Algorithm : 
+
+first put one kadai on the stove.
+second add some oil, onions, chillis, tomatos , some salt and water.
+third after boiling water add some rava in the kadai.
+fourth cover the plate to kadai and reduce flame to low. 
+fifth after 2 mints switch off the stove . and upma is ready.
