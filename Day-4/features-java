@@ -1,0 +1,58 @@
+Q ) Explain features of java ?
+
+Ans : Java is a high level, and object oriented programming language. this language is very easy to learn and widely used .
+
+It supports various features like :
+
+simple syntax
+object-oriented
+platform independent
+scalable
+portable
+secured and robust
+memory management
+high performance
+multithreading...etc
+
+# simple syntax :
+Java syntax is very straight forward and very easy to learn. java removes complex features like pointers and multiple inheritance.
+
+# object-oriented 
+java is a pure object-oriented language.it supports core OOP concepts like,
+class
+objects
+inheritance
+encaptulation
+anstraction 
+polymorphism
+
+# platform-independent 
+java is a platform independent language, which means we can run java program in any operating system.
+
+java is platform independent because of JVM. 
+
+when we write java code, it is first compiled by the compiler and then converted into byte code(which is platform independent)
+
+this byte code can run on any platform which has JVM installed.
+
+# interpreted
+java code is not directly executed by the computer.it is first compiled into byte code,this byte code is then understand by the JVM.
+
+it is also nothing but line by line execution.
+
+# scalable 
+java can handle both small and large-scale projects or applications.
+
+# portable 
+when we write a java program,the code first get converted into byte code and this byte code does not depend on any operating system or any specific computer. we can simply execute this bytr code on any platform with the help of JVM. since JVMs are available on most devices and that's why we can run the same java program on different platform.
+
+# multithreading 
+multithreading in java allows multiple threads to run at the same time.
+
+# secured and robust 
+java is a reliable programming language because it can catch mistakes early while writing  the code and also keeps checking for errors when the program is running.this is nothing but exception handling.
+
+# memory management 
+memory management in java is automatically handled by the java virtual machine.
+
+java garbage-collector reclaim memory from objects that are no longer needed.
