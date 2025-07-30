@@ -11,3 +11,41 @@ Fourth-generation languages
 Fifth-generation languages 
 
 Now we will discuss about step-by-step generation :
+
+# First-generation-language :
+
+First generation languages is also known as machine languages, are the simplest type of computer language. 
+
+The main electronic component used in the computers of the 1940s and 1950s era were "vacuum tubes", which were used for both circuitry and memory storage.
+
+To interface directly with a computer hardware, these languages use binary code, which consists of 0s and 1s.
+
+The size used to be very large which could take up entire rooms and the speed was very slow.
+
+# Second-generation-language :
+
+Second generation languages is  also known as " assembly languages " , introduced human readable notations , such as mnemonics, that are easier to understand than binary code.
+
+The main electronic component used in the computers of the 1950s and 1960s era were " transistors ".
+
+The main memory storing units were  magnetic tape or disk and magnetic core.
+
+There was an improvement in speed.
+
+The size is smaller than first generation computers and they used to low power and generate less heat.
+
+# Third-generation-language :
+
+Third generation languages also known as "procedural languages ".
+
+It is a high level programming languages designed to be more user-friendly by utilizing syntax similar to human language.
+
+The main electronic components used in the computers of the era 1960s to 1970s were " integrated circuits ICS " .
+
+The memory storing units were the magnetic disk or take and a large magnetic core .
+
+High level languages such as BASIC,COBOL,PASCAL were used as the programming language.
+
+The size were  smaller and efficient and the computers were called minicomputers.
+
+# Fourth-generation-language : 
