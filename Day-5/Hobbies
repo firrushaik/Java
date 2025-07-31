@@ -1,0 +1,8 @@
+class Hobbies{
+public static void main(String[] args){
+System.out.println("My hobbies are :");
+System.out.println("reading");
+System.out.println("writing");
+System.out.println("cooking");
+System.out.println("singing");
+}}
