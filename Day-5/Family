@@ -1,0 +1,9 @@
+class Family {
+public static void main(String[] args)
+{
+System.out.println("my father name is : S.Manzoor Ahmed");
+System.out.println("my mother name is : Shaik.Jamsheera");
+System.out.println("my brother name is : S.Akram Parvez");
+System.out.println("my sister name is : S.Ayesha");
+}
+}
