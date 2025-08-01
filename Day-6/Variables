@@ -1,4 +1,8 @@
 Variables are containers used to store the data. variables are also called Identifiers.
+A variable in java has three components, they are : data type , variablename , value
+Data type : Defines the kind of data stored(e.g ,int , string )
+variable name : A unique identifier following java naming rules.
+value : The actual data assigned to the variable.
 
 // Declaring a variables 
 // When we declare a variable the Java Virtual Machine allocates a specific amount of memory for that variable
