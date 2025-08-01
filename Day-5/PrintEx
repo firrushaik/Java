@@ -1,3 +1,5 @@
+print() : This method prints the  specified argument to the console without adding a new line charecter at the end.
+
 class PrintEx{
 public static void main(String[] args)
 {

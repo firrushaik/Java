@@ -1,3 +1,5 @@
+printf() : The printf function prints a string on the screen using a  " format string " ,that includes  the instrctions to mix several strings and produce the final string to be print on the screen .
+
 class PrintfEx{
 public static void main(String[] args)
 {
@@ -5,4 +7,4 @@ String name = "firdose";
 int age = 23;
 System.out.printf("Hello, my name is: %s and I am %d years old." , name, age);
 }
-}
+} 

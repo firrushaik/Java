@@ -1,3 +1,6 @@
+println() : This method prints the specified argument to the console and then moves the cursor to the nextline by adding a new line character subswquent output will appear on a new line.
+            (after printing the data it will move cursor to the nextline)
+
 class PrintlnEx{
 public static void main(String[] args)
 {
