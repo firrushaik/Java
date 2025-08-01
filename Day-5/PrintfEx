@@ -1,0 +1,8 @@
+class PrintfEx{
+public static void main(String[] args)
+{
+String name = "firdose";
+int age = 23;
+System.out.printf("Hello, my name is: %s and I am %d years old." , name, age);
+}
+}
