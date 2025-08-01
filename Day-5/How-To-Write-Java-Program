@@ -1,0 +1,6 @@
+Q ) How to write java program?
+
+Write a Java program.
+Save the file with filename.java( The file name should match the name of the public class within the file)
+Open command promt and compile the java program (Javac filename.java), class will be generated, this name will be classname.java
+we have to run the program (java classname) .
