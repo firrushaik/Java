@@ -7,6 +7,7 @@ example : int age;
 
 // Initialization a variable 
 // Variable initilization is the process of assigning an initial value to a variable in a computer program
+// When we initilize a variable , it will assign the some value to that variable
 VariableName = Value;
 example : age = 20;
 
@@ -21,6 +22,10 @@ A variable is must be declared before it can be initilized.
 for example : int age = 20;
 int age = 30;
 int age = 50;
+
+// But we can declare two variables with different name
+for example : int a = 20;
+int b = 30;
 
 // We can initialize multiple variables to the same variable 
 for example : age = 20;
