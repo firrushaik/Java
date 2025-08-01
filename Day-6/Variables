@@ -1,0 +1,28 @@
+Variables are containers used to store the data. variables are also called Identifiers.
+
+// Declaring a variables 
+// When we declare a variable the Java Virtual Machine allocates a specific amount of memory for that variable
+Datatype VariableName;
+example : int age;
+
+// Initialization a variable 
+// Variable initilization is the process of assigning an initial value to a variable in a computer program
+VariableName = Value;
+example : age = 20;
+
+// Declaring and Initializing a variable 
+Datatype VariableName = Value;
+example : int age = 20;
+string name = "Banu"
+
+A variable is must be declared before it can be initilized.
+
+// we can't declare two variables with same name
+for example : int age = 20;
+int age = 30;
+int age = 50;
+
+// We can initialize multiple variables to the same variable 
+for example : age = 20;
+age = 30;
+age = 50;
