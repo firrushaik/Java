@@ -1,0 +1,18 @@
+public class VariableEx2
+{
+public static void main(String[] args)
+{
+int a = 20;
+int b = 30;
+int total = a + b;
+System.out.println(a);
+System.out.println(b);
+System.out.println(total);
+}
+}
+
+
+
+out put : 20
+30
+50
