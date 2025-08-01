@@ -9,6 +9,4 @@ System.out.println(a);
 }
 
 
-
-
 output : 30
