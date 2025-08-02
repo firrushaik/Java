@@ -1,0 +1,29 @@
+Variables are containers used to store the data. it is also called as "identifiers" .
+
+class VariableEx{
+    public static void main(String[] args){
+        System.out.println( " This is called method ");
+        {
+            System.out.println("This is called block");
+        }
+    }
+    
+}
+
+Method : In Java Method is a named block of code designed to perform a specific task and can be called explicitly. A Method must belongs to a class. 
+
+Block : A block in java refers to any set of statements enclosed within curly braces {} . Blocks may be a part of Method or control statements .
+
+In Java programming language , variables are three types .
+         Local variable
+         Static variable 
+         Instance variables
+
+Local variables : Local variables are declared within a method or block .
+Access modifiers cannot be used for local varisbles.
+
+Static variable : Class varisbles are also called as static varisbles. Static variables are declared with the static keyword within a class but outside the method or block.
+
+Instance variables : A variable is declared within a class but outside the method or block .
+Access modifier can be given for instance variables .
+Instance variables are created when an object of the class is created with the use of the keyword 'new' and destroyed when the object is destroyed.
