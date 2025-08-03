@@ -1,0 +1,10 @@
+Variable name should contain only a-z , A-Z , 0-9 , and _(underscore), $(doller) symbols.
+variable name should not start with numbers.
+eg : 1ab,2cf,9g etc
+It should not contain keywords. we should not use keyword as variable name.
+eg : public , static , void etc
+Variable names are case sensetive. 
+eg : int age = 20;
+int Age = 20;
+int AgE = 20;
+int AGe = 20; above all are not a valid identifiers .
