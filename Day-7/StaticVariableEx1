@@ -1,0 +1,21 @@
+class StaticVariablesEx1
+{
+static String name; 
+    public static void main(String[] args)
+    {
+    name = "firdose";
+        System.out.println("My name is: " + name);
+        {
+            name = "firru";
+            System.out.println("My name is :" + name);
+        }
+        
+        System.out.println("My name is : " + name);
+    }
+
+}
+
+
+out put : My name is: firdose
+My name is :firru
+My name is : firru
