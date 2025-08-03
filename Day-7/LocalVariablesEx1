@@ -1,0 +1,10 @@
+public class LocalVariablesEx1 {
+    public static void main(String[] args) {
+        int number = 10; // Local variable
+        System.out.println("The number is: " + number);
+    }
+}
+
+
+
+output : The number is: 10
