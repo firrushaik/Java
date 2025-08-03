@@ -11,3 +11,8 @@ class LocalVariablesEx2
         System.out.println("The number is: " + number);
     }
 }
+
+
+
+out put : 20
+The number is:20
