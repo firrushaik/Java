@@ -62,7 +62,7 @@ class InstanceEx
 int age ;
 public static void main(String[] args)
 {
-InstanceEx b1 = new InstanceEx(); // We should not assign a value to variable , It will take the default value as 0
+InstanceEx b1 = new InstanceEx(); // We should not assign a value to variable , It will take by the default value as 0
 System.out.println("My age is:" + b1.age);
 }
 }
