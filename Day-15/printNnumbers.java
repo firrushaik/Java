@@ -1,13 +1,14 @@
 import java.util.Scanner;
-public class printNnumbers{
+public class primeNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number: ");
-        int n = sc.nextInt();
-        for( int i=0;i<n;i++)
+        int num = sc.nextInt();
+        for(int i=1;i<=num;i++)
         {
-            System.out.println(i);
+            if(i%2==0) {
+                System.out.println(i );
+            }
         }
-
     }
 }
