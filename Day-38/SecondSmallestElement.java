@@ -1,7 +1,7 @@
 package ArrayPackage;
 
 import java.util.Scanner;
-public class SecondLargestNumber {
+public class SecondSmallestNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the array: ");
