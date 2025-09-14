@@ -1,0 +1,16 @@
+class StaticVariablesEx1
+{
+    String name; // instance variable 
+    public static void main(String[] args)
+    {
+    name = "firdose";
+        System.out.println("My name is: " + name);
+        {
+            name = "firru";
+            System.out.println("My name is :" + name);
+        }
+        
+        System.out.println("My name is : " + name);
+    }
+
+}

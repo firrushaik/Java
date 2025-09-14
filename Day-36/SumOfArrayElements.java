@@ -31,3 +31,5 @@ Enter the 3 array elements:
 20
 30
 sum of array elements is: 60
+
+/*

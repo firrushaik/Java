@@ -13,10 +13,25 @@ public class ReadingArrayElements {
         for(int i=0;i<=size-1;i++){
             arr[i] = sc.nextInt();
         }
-        
+
         // print array elements
         for(int i = 0;i<=size-1;i++){
             System.out.println(arr[i]);
         }
     }
 }
+
+
+/*
+
+Enter the size of the array
+3
+Enter 3 array elements
+3
+5
+6
+3
+5
+6
+
+*/
