@@ -37,5 +37,6 @@ Enter the 5 array elements:
 3
 6
 10
+
 6
 
