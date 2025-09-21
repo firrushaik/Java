@@ -14,7 +14,17 @@ public class stringEx3 {
         System.out.println(name2.hashCode());
         System.out.println(name3.hashCode());
 
-        name1 = "firdose"; // here not assing a new value to a name1 variable, it will create a new memory in the stringpool
+        name1 = "firdose"; // here not assing a new value to a name1 variable, it will create a new memory in the stringpool and return new memory address
         System.out.println(name1.hashCode());
     }
 }
+
+
+output:
+
+79847086
+815179916
+109399758
+815179916
+-849473364 // created new memory address
+
