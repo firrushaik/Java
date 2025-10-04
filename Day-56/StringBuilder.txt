@@ -1,0 +1,28 @@
+String Builder: 
+        The StringBuilder class is a part of the java.lang package that provides a mutable sequence of characters. 
+        Unlike String (which is immutable), StringBuilder allows in-place modifications, making it memory-efficient and faster for frequent string operations.
+
+Declaration:
+
+StringBuilder sb = new StringBuilder("Initial String");
+
+Example:
+
+public class Geeks
+{
+    public static void main(String[] args) {
+        // Create a new StringBuilder with the initial content "GeeksforGeeks"
+        StringBuilder sb = new StringBuilder("Hello");
+        System.out.println("Initial StringBuilder: " + sb);
+
+        // Append a string to the StringBuilder
+        sb.append(" is awesome!");
+        System.out.println("After append: " + sb);
+    }
+}
+
+
+output:
+
+Initial StringBuilder: Hello
+After append: Hello is awesome!
