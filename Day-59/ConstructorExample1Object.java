@@ -29,7 +29,7 @@ public class BookObject {
 }
 
 
-output:
+output is given below:
 
 
 Rich Dad and Poor Dad
