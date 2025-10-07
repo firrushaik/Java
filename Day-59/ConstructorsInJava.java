@@ -37,6 +37,5 @@ System.out.println(objectName.getVariableName());
 System.out.println(objectName.getVariableName());
 ..
 ..
-..
 
 
