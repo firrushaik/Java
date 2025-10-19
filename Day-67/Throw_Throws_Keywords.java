@@ -3,6 +3,7 @@ throw and throws Keywords:
 1. throw: Used to explicitly throw a single exception. 
 We use throw when something goes wrong (or “shouldn’t happen”) and we want to stop normal flow and hand control to exception handling.
 
+Example:
 
 class Demo {
     static void checkAge(int age) {
@@ -29,6 +30,8 @@ Exception in thread "main" java.lang.ArithmeticException: Age must be 18 or abov
 2. throws: Declares exceptions that a method might throw, informing the caller to handle them. 
 It is mainly used with checked exceptions (explained below). If a method calls another method that throws a checked exception, and it doesn’t catch it, it must declare that exception in its throws clause
 
+
+Example:
 
 import java.io.*;
 ​
