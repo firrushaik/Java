@@ -19,7 +19,7 @@ class Demo {
     }
 }
 
-Output:
+Output is given below:
 
 Exception in thread "main" java.lang.ArithmeticException: Age must be 18 or above
 
@@ -52,5 +52,6 @@ class Demo {
     }
 }
 
-Output
+Output is given below:
+
 File not found: test.txt (No such file or directory)
