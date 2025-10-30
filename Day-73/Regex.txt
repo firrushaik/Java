@@ -1,0 +1,50 @@
+Regex: 
+   Regex stands for Regular Expressions.
+
+Regular Expressions (Regex) in Java:
+
+Regular Expressions, or Regex, are patterns used to match character combinations in strings. In Java, regex is implemented using the java.util.regex package, which provides two main classes: Pattern and Matcher.
+
+Key Components of Regex in Java:
+
+1) Pattern Class: Defines a compiled representation of a regex.
+2) Matcher Class: Performs operations like matching, searching, and replacing on text using a Pattern(out input).
+
+Common Regex Patterns:
+
+
+\d	Matches any digit (0-9).
+\w	Matches any word character (a-z, A-Z, 0-9, _).
+\s	Matches any whitespace character.
+^	Matches the start of a string.
+$	Matches the end of a string.
+.*	Matches zero or more of any character.
+[abc]	Matches any of the characters a, b, or c.
+[a-z]	Matches any lowercase letter.
+Tips
+Always escape special characters (e.g., \ becomes \\ in Java strings).
+Use Pattern.compile() for reusable patterns to improve performance.
+Test your regex patterns using online tools like regex101.
+Regex is a powerful tool for text processing, and mastering it can greatly enhance your Java programming skills!
+
+
+example:
+
+package Regex;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegexEx1 {
+    public static void main(String[] args) {
+        Pattern pattern = Pattern.compile("[XYZ]");
+        Matcher matcher = pattern.matcher("y"); 
+
+        System.out.println(matcher.matches());
+    }
+}
+
+
+o/p:
+
+false
