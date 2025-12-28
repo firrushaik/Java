@@ -5,5 +5,5 @@ public class ArrayEx2 {
     }
 }
 
-/*
-false // boolean default value is false */
+
+false // boolean default value is false 
