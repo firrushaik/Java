@@ -30,3 +30,5 @@ Enter n
 2
 3
 4
+
+sum of N is: 10

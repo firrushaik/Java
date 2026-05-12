@@ -1,0 +1,5 @@
+String is Mutable:
+
+In Java, strings are immutable, meaning that once a String object is created, its value cannot be changed.
+This immutability is a fundamental characteristic of the String class in Java and has several important implications and benefits.
+
