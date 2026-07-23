@@ -25,6 +25,10 @@ public class print1to5numbers {
 
 
 
+
+
+
+
 import java.util.Scanner;
 public class print1to5numbers {
     public static void main(String[] args) {
